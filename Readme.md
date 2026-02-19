@@ -252,13 +252,4 @@ REFRESH_TOKEN_EXPIRY=7d
 
 ---
 
-## 🚀 Ideal For
-
-* MERN Stack YouTube Clone
-* Video Streaming Platforms
-* Scalable REST APIs
-* SPA / Mobile Applications
-
----
-
 **End of Documentation**
