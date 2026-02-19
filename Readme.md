@@ -251,5 +251,3 @@ REFRESH_TOKEN_EXPIRY=7d
 ✔ Easy integration with frontend/mobile apps
 
 ---
-
-**End of Documentation**
